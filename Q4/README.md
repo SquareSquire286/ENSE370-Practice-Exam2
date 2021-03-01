@@ -1,6 +1,6 @@
 # ENSE 370 Winter 2020 Midterm Exam - Question 4
 
-**PROMPT:** Consider a software system where you (and other users) are subscribed to a particular YouTube channel and you want to be informed when a new video is available. However, there are many genres of YouTube videos available (e.g. Product Review Videos, How-To Videos, etc.) and due to the resource limitation, the fotware system can only allow one channel of each genre to be available for users to subscribe. Users are also divided into categories (e.g. children, teenagers, adults, etc.). There can be an unlimited number of users in any user category.
+**PROMPT:** Consider a software system where you (and other users) are subscribed to a particular YouTube channel and you want to be informed when a new video is available. However, there are many genres of YouTube videos available (e.g. Product Review Videos, How-To Videos, etc.) and due to the resource limitation, the software system can only allow one channel of each genre to be available for users to subscribe. Users are also divided into categories (e.g. children, teenagers, adults, etc.). There can be an unlimited number of users in any user category.
 
 PART A: Design a software system which meets the above requirements. State what Design Pattern(s) you have used and draw the Class diagram. Include all attributes or methods that are essential to the Design Pattern(s) you have used. Any other attributes or methods are optional.
 
