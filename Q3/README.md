@@ -5,3 +5,9 @@
 <img src="q3Figure.png" width="800">
 
 Write the Java code for the three classes Sport, NHL, and TemplatePatternDemo. You may assume that all the other classes are fully implemented. In the `main()` method, create an object instance `sport`, make it stream NHL news, and immediately after that make it stream NBA news.
+
+**Instructions for Compilation**
+
+`javac NBA.java NFL.java NHL.java Sport.java TemplatePatternDemo.java`
+
+`java TemplatePatternDemo`
